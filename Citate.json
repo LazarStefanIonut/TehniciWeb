@@ -1,0 +1,52 @@
+{
+   "citate":[
+      {
+         "id":1,
+         "sters":0,
+         "citat":"The problem with some people is that when they aren't drunk they're sober.",
+         "autor":"~ William Butler Yeats "
+      },
+      {
+         "id":2,
+         "sters":0,
+         "citat":"Reality is an illusion that occurs due to lack of alcohol.",
+         "autor":"~ Anonymous "
+      },
+      {
+         "id":3,
+         "sters":0,
+         "citat":"Alcohol is the anesthesia by which we endure the operation of life.",
+         "autor":"~ George Bernard Shaw "
+      },
+      {
+         "id":4,
+         "sters":0,
+         "citat":"Alcohol removes inhibitions - like that scared little mouse who got drunk and shook his whiskers and shouted: Now bring on that damn cat!",
+         "autor":"~ Eleanor Early "
+      },
+      {
+         "id":5,
+         "sters":0,
+         "citat":"Alcohol is necessary for a man so that he can have a good opinion of himself, undisturbed be the facts.",
+         "autor":"~ Finley Peter Dunne "
+      },
+      {
+         "id":6,
+         "sters":0,
+         "citat":"When we drink we get drunk. When we get drunk we fall asleep. When we fall asleep we commit no sin. When we commit no sin we go to heaven. Sooooo, let's all get drunk and go to heaven!",
+         "autor":"~ Brian O'Rourke "
+      },
+      {
+         "id":7,
+         "sters":0,
+         "citat":"Always remember that I have taken more out of alcohol than alcohol has taken out of me.",
+         "autor":"~ Winston Churchill "
+      },
+      {
+         "id":8,
+         "sters":0,
+         "citat":"The problem with the world is that everyone is a few drinks behind.",
+         "autor":"~ Humphrey Bogart "
+      }
+   ]
+}
